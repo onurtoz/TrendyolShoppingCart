@@ -1,0 +1,6 @@
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Business.Model\bin\Debug\Trendyol.Business.Model.dll
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Business.Model\bin\Debug\Trendyol.Business.Model.pdb
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Business.Model\obj\Debug\Trendyol.Business.Model.csprojAssemblyReference.cache
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Business.Model\obj\Debug\Trendyol.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Business.Model\obj\Debug\Trendyol.Business.Model.dll
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Business.Model\obj\Debug\Trendyol.Business.Model.pdb

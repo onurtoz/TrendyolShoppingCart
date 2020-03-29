@@ -1,0 +1,14 @@
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\bin\Debug\Trendyol.Console.exe.config
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\bin\Debug\Trendyol.Console.exe
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\bin\Debug\Trendyol.Console.pdb
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\bin\Debug\Trendyol.Business.Model.dll
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\bin\Debug\Trendyol.Business.Service.dll
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\bin\Debug\Trendyol.Business.Model.pdb
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\bin\Debug\Trendyol.Business.Service.pdb
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\obj\Debug\Trendyol.Console.csprojAssemblyReference.cache
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\obj\Debug\Trendyol.Console.csproj.CoreCompileInputs.cache
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\obj\Debug\Trendyol.Console.csproj.CopyComplete
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\obj\Debug\Trendyol.Console.exe
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\obj\Debug\Trendyol.Console.pdb
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\bin\Debug\ConsoleTables.dll
+C:\Users\otoz\source\repos\TrendyolShoppingCart\Trendyol.Console\bin\Debug\ConsoleTables.pdb
